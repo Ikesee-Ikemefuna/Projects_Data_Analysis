@@ -1,10 +1,9 @@
 # Projects_Data_Analysis
 
 
-Business Requirement - Complete the series of task below to provide useful reports. 
-to aid decision making. 
+Business Requirement - I carried out series of tasks below to provide useful reports to aid decision making. 
 
-My analysis was carried out using pivot tables and other advanced excel functions, Power_BI functions and visuals, and SQL queries. The Excel, PowerBI and SQL contain all the rough work/pivot tables/Dashboards about the business requirements. 
+My analysis was carried out using pivot tables/dashboard and other advanced excel functions, Power_BI functions and visuals, and SQL queries/Tables. The Excel, PowerBI and SQL contain all the rough work/pivot tables/Dashboards about the business requirements. 
 
 #Excel
 1.	What is the yearly profit made by the company. Plot this on an appropriate chart.
@@ -27,7 +26,6 @@ My analysis was carried out using pivot tables and other advanced excel function
 
 10.	Show a trend of revenue based on the day of the week. Which weekday generates the highest and least revenue? Assignment
 
-
 11.	Which Shipping mode cost the most and by how much?
 
 12.	Which customer age group drives the most profit for the company?
@@ -43,13 +41,26 @@ Based on data we have, show the correlation between number of days to ship and r
 
 16.	What will be the commercial value if rate of returned orders  decline by 50% after 6 months?
 
-
 17.	The management intends to promote one of the regional managers to become Head of Sales of the company, based on important key performance indicators, who will you recommend and why?
 
-Presentation and Recommendation 
-Create a slide deck (ppt/presentation/pack) based on the output of the analysis, plot the results on the appropriate graphs/charts and make commentaries/recommendations based on your findings. 
-Use Pictures, clip art, Shapes including call out buttons etc to communicate your insights.
 
 #PowerBI
+The are the business requirements to get using PowerBI:
 
+1) Total Order
+2) Total Sales
+3) Total Profit
+4) Yearly Profit
+5) Monthly profit
+6) Weekly proffit
+7) Profit by Region 
+8) Profit by Product Category
+9) Profit by Regional Manager
+
+#SQL
+The SQL business requirement is on the committed SQL file, right above each query on the file. Please run the queries if you want to visualize the tables.
+
+Presentation and Recommendation 
+I created a slide deck (ppt/presentation/pack) based on the output of the analysis, plot the results on the appropriate graphs/charts and made commentaries/recommendations based on my findings. 
+I used Pictures, clip art, Shapes including call out buttons etc to communicate my insights.
 

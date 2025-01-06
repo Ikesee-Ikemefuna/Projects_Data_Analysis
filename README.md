@@ -439,7 +439,7 @@ SELECT hire_date,REPLACE(hire_date,'-','/') AS replaced_delimeter FROM employees
 --Replace “.” with “-” in phone_number
 SELECT phone_number,REPLACE(phone_number,'.','-') AS Alterd_num FROM employees;
 
---Presentation and Recommendation 
-I created a slide deck (ppt/presentation/pack) based on the output of all the analysis, plot the results on the appropriate graphs/charts and made commentaries/recommendations based on my findings. 
+--Presentation and Recommendation: 
+--I created a slide deck (ppt/presentation/pack) based on the output of all the analysis, plot the results on the appropriate graphs/charts and made commentaries/recommendations based on my findings. 
 I used Pictures, clip art, Shapes including call out buttons etc to communicate my insights.
 

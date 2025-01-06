@@ -376,7 +376,7 @@ END AS 'employee_class' FROM employees;
 
 --Date Function
 --Display today’s date.
-select getdat();
+select getdate();
 
 
 --Extract “day” from hire_date in employees table.
